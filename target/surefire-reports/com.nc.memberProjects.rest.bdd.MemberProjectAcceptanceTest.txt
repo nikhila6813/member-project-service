@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.nc.memberProjects.rest.bdd.MemberProjectAcceptanceTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.635 s <<< FAILURE! - in com.nc.memberProjects.rest.bdd.MemberProjectAcceptanceTest
-Get All members  Time elapsed: 0.281 s  <<< ERROR!
-org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.UnsupportedOperationException
-Caused by: java.lang.UnsupportedOperationException
-

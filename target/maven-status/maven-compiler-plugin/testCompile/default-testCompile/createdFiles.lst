@@ -1,6 +1,0 @@
-com\nc\memberProjects\rest\RestApiTests.class
-com\nc\memberProjects\rest\bdd\MemberSteps.class
-com\nc\memberProjects\rest\bdd\MemberProjectAcceptanceTest.class
-com\nc\memberProjects\rest\bdd\AboutSteps.class
-com\nc\memberProjects\SpringContextLoadTest.class
-com\nc\memberProjects\rest\bdd\CucumberSpringContextConfig.class
